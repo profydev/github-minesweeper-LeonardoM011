@@ -2,6 +2,7 @@
   "commands": [
     "clear D5",
     "clear E3",
-    "clear C3"
+    "clear C3",
+    "clear F6"
   ]
 }
